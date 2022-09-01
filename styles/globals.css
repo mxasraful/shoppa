@@ -24,3 +24,47 @@ a {
     background: black;
   }
 }
+
+
+/* Global Styles */
+.container-main{
+  min-height: 85vh;
+}
+
+
+/* Nav Bar Css */
+
+.navbar-main{
+  background-color: #203040;
+  color: #fff !important;
+}
+
+.navbar-middle-spacing{
+  flex-grow: 1000;
+}
+
+.navbar-right-links{
+
+}
+
+.navbar-right-cart{
+  
+}
+
+.navbar-right-login{
+
+}
+
+/* Product Item page */
+
+.product-item-page-add-to-cart{
+  background-color: #FFCA2C !important;
+  color: #000 !important;
+}
+
+/* Footer Css */
+
+.footer-main{
+  text-align: center;
+}
+
